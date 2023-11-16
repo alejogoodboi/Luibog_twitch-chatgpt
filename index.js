@@ -18,7 +18,7 @@ if (!HISTORY_LENGTH) {
     HISTORY_LENGTH = 5
 }
 if (!OPENAI_API_KEY) {
-    console.log("No OPENAI_API_KEY found. Please set it as environment variable.")
+    console.log("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")
 }
 if (!MODEL_NAME) {
     MODEL_NAME = "gpt-3.5-turbo"
