@@ -18,7 +18,7 @@ if (!HISTORY_LENGTH) {
     HISTORY_LENGTH = 5
 }
 if (!OPENAI_API_KEY) {
-    console.log("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")
+    console.log("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")
 }
 if (!MODEL_NAME) {
     MODEL_NAME = "gpt-3.5-turbo"
