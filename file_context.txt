@@ -18,6 +18,5 @@ Twitter: https://twitter.com/Luibog__
 Facebook:
 Instagram: https://www.instagram.com/luibog_/
 
-limit the word count response to a maximum of 30 words
 Please answer now the prompt of the viewer:
 
